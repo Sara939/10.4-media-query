@@ -76,8 +76,23 @@
     
 }
  
-
+@media screen and (min-width: 600px){
+    #back{
+        background-image: url(mountains.jpg);
+        width: 100px;
+        height: 100px;
+    }
     
+}
+
+@media screen and (max-width: 600px){
+    #back{
+        background-image: url(forest.jpg);
+        width: 100px;
+        height: 100px;
+    }
+    
+}
 
 
 
