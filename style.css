@@ -1,0 +1,86 @@
+@media screen and (min-width:600px){
+    #ali img{
+        width: 100px;
+        height: 100px;
+
+    }
+
+}
+
+@media screen and (max-width:600px) {
+    #ali img{
+            width: 30px;
+            height: 30px;
+    
+        }
+    }
+@media screen and (min-width:600px) {
+    #blue{
+        background-color: blue;
+        width: 100px;
+        height: 100px;}
+
+
+}
+@media screen and (max-width:600px) {
+    #blue{
+        background-color:red;
+        width: 100px;
+        height: 100px;}
+    
+}
+
+@media screen and (min-width: 600px) {
+    #green{
+        background-color: green;
+        color: white;}
+}
+
+@media screen and (max-width: 600px) {
+    #green{
+        background-color: green;
+        color: yellow}
+}
+
+@media screen and (min-width: 600px){
+    #round{
+        background-color: blue;
+        border-radius: 100%;
+        width: 100px;
+        height: 100px;}
+
+    }
+@media screen and (max-width: 600px) {
+    #round{
+        background-color: blue;
+        border-radius: 0%;
+        width: 100px;
+        height: 100px;
+
+    }
+}
+@media screen and (min-width: 600px){
+    #b img {
+        width: 100px;
+        height: 100px;
+        filter: blur(5px);
+    }
+    
+}
+@media screen and (max-width: 600px){
+    #b img {
+        width: 100px;
+        height: 100px;
+        filter: grayscale(100%);
+    }
+    
+}
+ 
+
+    
+
+
+
+
+
+    
